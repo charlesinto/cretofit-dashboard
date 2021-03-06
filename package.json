@@ -43,7 +43,7 @@
     "@types/crypto-js": "^4.0.1",
     "@types/jimp": "^0.2.28",
     "@types/lodash": "^4.14.136",
-    "angular-in-memory-web-api": "^0.8.0",
+    "angular-in-memory-web-api": "^0.10.0",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.8.0",
     "chartist": "^0.11.3",
